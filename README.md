@@ -4,6 +4,12 @@ Puja: added the register/login page with firebase Authentication.\
 Added the firebase email and password authentication. \
 Added the regex for data validation
 
+Deepan :Added maps with all the information about the foodtrucks nearby\
+once the login is successfull or used guest login.It will go to map fragment\
+shows all the nearrby foodtruck and naviage the user to the foodtruck which is clicked\
+used googleApi ket to access google maps
+
+
 # Food Truck Locator
 Fall 2019\
 CS-4540 Android Project
