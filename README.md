@@ -3,6 +3,11 @@ Android App which lets users locate nearby food trucks\
 Puja: added the register/login page with firebase Authentication.\
 Added the firebase email and password authentication. \
 Added the regex for data validation
+Deepan :added maps with all the information about the foodtrucks nearby 
+once the login is successfull or used guest login
+.It will go to map fragment and shows all the naerby foodtruck and naviage the user to the foodtruck which is clicked.
+used Google api Key.
+used lat long for all the foodtrucks.
 
 # Food Truck Locator
 Fall 2019\
